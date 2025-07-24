@@ -9,8 +9,8 @@ import feedparser
 import urllib.parse
 
 # Load models
-model = DistilBertForSequenceClassification.from_pretrained("/kaggle/input/saved_model/scikitlearn/default/1") #Enter your model path
-tokenizer = DistilBertTokenizerFast.from_pretrained("/kaggle/input/saved_model/scikitlearn/default/1") #Enter your model path
+model = DistilBertForSequenceClassification.from_pretrained("ShanGhani34/truthlens-model")
+tokenizer = DistilBertTokenizerFast.from_pretrained("ShanGhani34/truthlens-model")
 model_sbert = SentenceTransformer('all-MiniLM-L6-v2', device='cpu')
 
 trusted_headlines = [
