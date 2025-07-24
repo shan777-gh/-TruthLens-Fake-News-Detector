@@ -31,11 +31,13 @@ TruthLens is a real-time fake news detection and **truth verification system** b
 ---
 
 ## 🚀 Demo Screenshot
+##TEXT:
+#1. ![TruthLens Screenshot](ScreenShots/demo1.png)
+#2. ![TruthLens Screenshot](ScreenShots/demo2.png)
 
-![TruthLens Screenshot](ScreenShots/demo1.png)
-![TruthLens Screenshot](ScreenShots/demo2.png)
-![TruthLens Screenshot](ScreenShots/demo3.png)
-![TruthLens Screenshot](ScreenShots/demo4.png)
+##URL
+#1. ![TruthLens Screenshot](ScreenShots/demo3.png)
+#2. ![TruthLens Screenshot](ScreenShots/demo4.png)
 
 ---
 
