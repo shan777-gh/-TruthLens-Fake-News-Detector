@@ -1,6 +1,7 @@
 # 📰 TruthLens – AI-Powered Fake News Detector + Verifier
 
 TruthLens is a real-time fake news detection and **truth verification system** built using state-of-the-art NLP models like **DistilBERT** and **SBERT**, combined with **real-time cross-checking from Google News**.
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://n5ddl8g2zs6ck2dlhddukh.streamlit.app/)
 
 > ✨ Goal: Help users detect misinformation, understand source credibility, and verify facts using multiple trusted headlines.
 
