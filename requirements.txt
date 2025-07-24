@@ -1,0 +1,9 @@
+transformers
+datasets
+scikit-learn
+streamlit
+newspaper3k
+pyngrok
+lxml[html_clean]
+newspaper3k
+sentence-transformers
