@@ -44,3 +44,7 @@ pip install -r requirements.txt
 
 # 2. Run the app
 streamlit run app.py
+or
+!pip install pyngrok
+ngrok config add-authtoken YOUR_TOKEN_HERE
+ngrok http 8501
